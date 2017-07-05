@@ -7,4 +7,10 @@
   npm install --save-dev webpack webpack-dev-server angular-router-loader angular2-template-loader
   awesome-typescript-loader html-loader raw-loader typescript del-cli
 
+  npm install --save-dev webpack-merge
+
+  npm install --save-dev webpack@^2.2.0 #resolve dependency errors
+
+  npm install --save-dev html-webpack-plugin
+
 
