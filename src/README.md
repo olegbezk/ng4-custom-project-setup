@@ -4,4 +4,7 @@
 
   npm install --save rxjs zone.js core-js
 
+  npm install --save-dev webpack webpack-dev-server angular-router-loader angular2-template-loader
+  awesome-typescript-loader html-loader raw-loader typescript del-cli
+
 
