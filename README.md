@@ -13,6 +13,8 @@
 
   npm install --save-dev html-webpack-plugin
 
-  npm run build
+  npm run build # build for dev env
+
+  npm run build:prod
 
 
