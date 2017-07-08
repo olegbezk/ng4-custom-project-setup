@@ -19,4 +19,8 @@
 
   npm install --save-dev @types/core-js @types/node
 
+  npm install --save-dev lite-server
+
+  npm run serve
+
 
