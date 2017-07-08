@@ -6,12 +6,20 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "target": "es5",
+    "typeRoots": [
+      "./node_modules/@types"
+    ],
     "lib": [
-      "es5",
-      "dom"
+      "es2017",
+      "dom",
+      "dom.iterable"
     ]
   },
   "angularCompilerOptions": {
     "skipMetadataEmit": true
-  }
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
 }
